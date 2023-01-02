@@ -1,0 +1,7 @@
+1. wmic /output:C:\myApps.txt product get name,version
+2. diskpart - disk storage management
+3. chkdsk - CHKDSK will scan for drive errors
+4. getmac - is a command-line tool to retreive the MAC address (aka physical address) of the network adapters in a computer
+5. IPConfig - is a popular command-line networking tool to query for TCP/IP network configuration
+6. Exit - To exit the shell when a background job is running
+7. lshw -C cpu
