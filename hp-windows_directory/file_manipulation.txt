@@ -1,0 +1,5 @@
+1. cd Document
+2. cd ..
+3. ls
+4. mkdir folder1 folder2 folder3
+5. rm -i folder3
