@@ -1,0 +1,8 @@
+1. tasklist -v
+2. notepad
+3. taskkill /PID 3924
+4. net start
+
+5.A system task is a process or set of processes that are part of the operating system, while a system service is a program that performs a specific function and is usually started automatically when the system boots. System tasks are typically responsible for low-level functions, such as managing memory and devices, while system services perform higher-level functions, such as providing network services or managing user authentication. System tasks and system services may be closely related, as system tasks may create and manage system services, but they are distinct concepts.
+
+6. driverquery /v
