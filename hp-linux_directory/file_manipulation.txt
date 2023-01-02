@@ -1,0 +1,12 @@
+1. mkdir folder1 folder2 folder3
+
+2. The pwd command is a command line utility that stands for "print working directory." When you run the pwd command, it will display the absolute path of the current working directory.
+For example, if you are in the /home/user/documents directory and you run the pwd command, it will display the following output: /home/user/documents
+
+The ls command is a command-line utility in Unix-like operating systems (including Linux and macOS) that is used to list the files and directories in a specified directory.
+
+The "cat" command is a Unix utility that is used to concatenate (combine) and display the contents of one or more text files. 
+
+The cp command is a Unix command that is used to copy files and directories. Here is an example of how to use it: cp file.txt file_copy.txt
+
+The touch command is a Linux command that is used to create new, empty files or update the timestamps of existing files.
