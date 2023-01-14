@@ -1,0 +1,4 @@
+1. pwd -P
+2. pwd -L
+3. mkdir –p tmp/directory/my_first_directory
+4. touch heritagePoly

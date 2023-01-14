@@ -1,0 +1,5 @@
+1. whoami
+2. touch hello
+3. chmod -u + -rwx hello
+4. chmod -u + -rwx hello
+3. chmod -u + -rwxrw-r-- hello
